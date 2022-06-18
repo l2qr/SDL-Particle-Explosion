@@ -38,5 +38,8 @@
     <ClInclude Include="Swarm.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Particle_Explosion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
